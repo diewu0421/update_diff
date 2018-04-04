@@ -1,0 +1,167 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -Aa 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -D__CLASSIC_C__ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags:  
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: -c 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --c++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: cl 
+Build flags: 
+Id flags: --ec++ 
+
+The output was:
+系统找不到指定的文件。
+
+
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the CXX compiler is IAR using "" did not match "IAR .+ Compiler":
+Determining if the C compiler works failed with the following output:
+Change Dir: D:/C++/Update/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/NOLOGO" "cmTC_7fd9a\fast"
+	F:\ITDocument\VisualStudio\VC\Tools\MSVC\14.13.26128\bin\HostX64\x64\nmake.exe -f CMakeFiles\cmTC_7fd9a.dir\build.make /nologo -L                  CMakeFiles\cmTC_7fd9a.dir\build
+Building C object CMakeFiles/cmTC_7fd9a.dir/testCCompiler.c.obj
+	F:\ITDocument\VisualStudio\VC\Tools\MSVC\14.13.26128\bin\Hostx64\x64\cl.exe @C:\Users\ZLW\AppData\Local\Temp\nm3ADC.tmp
+testCCompiler.c
+Linking C executable cmTC_7fd9a.exe
+	"D:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_7fd9a.dir --manifests  -- "D:\Program Files (x86)\MinGw\bin\ld.exe" /nologo @CMakeFiles\cmTC_7fd9a.dir\objects1.rsp @C:\Users\ZLW\AppData\Local\Temp\nm3B99.tmp
+LINK Pass 1: command "D:\Program Files (x86)\MinGw\bin\ld.exe /nologo @CMakeFiles\cmTC_7fd9a.dir\objects1.rsp /out:cmTC_7fd9a.exe /implib:cmTC_7fd9a.lib /pdb:D:\C++\Update\CMakeFiles\CMakeTmp\cmTC_7fd9a.pdb /version:0.0 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_7fd9a.dir/intermediate.manifest CMakeFiles\cmTC_7fd9a.dir/manifest.res" failed (exit code 1) with the following output:
+D:\Program Files (x86)\MinGw\bin\ld.exe: cannot find /nologo: No such file or directory
+CMakeFiles/cmTC_7fd9a.dir/testCCompiler.c.obj: file not recognized: File format not recognized
+NMAKE : fatal error U1077: “"D:\Program Files\CMake\bin\cmake.exe"”: 返回代码“0xffffffff”
+Stop.
+NMAKE : fatal error U1077: “F:\ITDocument\VisualStudio\VC\Tools\MSVC\14.13.26128\bin\HostX64\x64\nmake.exe”: 返回代码“0x2”
+Stop.
+
+
